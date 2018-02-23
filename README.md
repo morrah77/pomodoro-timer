@@ -13,3 +13,5 @@ During waiting page displays remaining time in minutes.
 When time is out notification will be raised.
 
 If you don't want wait more. tap "Stop" button.
+
+Deployed at [https://morrah77.ru/pomo/](https://morrah77.ru/pomo/)
